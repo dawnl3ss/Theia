@@ -1,10 +1,7 @@
-                                                        ___________.__           .__        
-                                                        \__    ___/|  |__   ____ |__|____   
-                                                          |    |   |  |  \_/ __ \|  \__  \  
-                                                          |    |   |   Y  \  ___/|  |/ __ \_
-                                                          |____|   |___|  /\___  >__(____  /
-                                                                        \/     \/        \/
-<p style="text-align: center">🔎Get data from an ip-adress with Theia 🔍</p>
+<div style="text-align: center">
+    <img src="https://github.com/4m4Sec/Theia/blob/main/images/ascii.png">
+    <p>🔎Get data from an ip-adress with Theia 🔍</p>
+</div>
 
 # 📌 Installation :
 ```
