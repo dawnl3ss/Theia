@@ -15,7 +15,7 @@ def main():
 
         for key in data:
             if key in forbidden_keys: continue
-            print(colors.OKCYAN + "[+] " + colors.OKGREEN + key.capitalize() + " -> " + str(data[key]))
+            print(colors.OKCYAN + "[+] " + colors.OKBLUE + key.capitalize() + colors.ENDC + " -> " + colors.OKGREEN + str(data[key]))
         print(colors.OKBLUE + "└───── " + colors.HEADER + "IP-Adress lookup [" + sys.argv[2] + "]" + colors.OKBLUE + " ─────┘")
     else:
         print(colors.FAIL + "[-] " + colors.WARNING + "Wrong argument.")
