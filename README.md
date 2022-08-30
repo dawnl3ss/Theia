@@ -12,8 +12,12 @@ $ git clone https://github.com/4m4Sec/Theia
 # go to the Theia directory
 $ cd Theia
 
-# Start the script (arg: -a ip-adress)
+
+# Start the script (lookup one's ip-adress)
 $ python theia.py -a 45.45.45.45
+
+# Start the script (lookup your own ip-address)
+$ python theia.py -s True
 ```
 
 ## 📌 Usage :
@@ -31,10 +35,11 @@ $ python theia.py --help
                   ░       ░  ░░ ░   ░    ▒ ░  ░   ▒      
                           ░  ░  ░   ░  ░ ░        ░  ░ 
     
-usage: theia.py [-h] [-a ADRESS]
+usage: theia.py [-h] [-a ADRESS] [-s SELF]
 
 optional arguments:
   -h, --help            show this help message and exit
   -a ADRESS, --adress ADRESS
                         victim ip-adress
+  -s SELF, --self SELF  you own ip-adress
 ```
