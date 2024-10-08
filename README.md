@@ -1,13 +1,13 @@
 <div align="center">
-    <img src="https://github.com/4m4Sec/Theia/blob/main/images/ascii.png">
+    <img src="https://github.com/dawnl3ss/Theia/blob/main/images/ascii.png">
     <h3>🔎Get data from an ip-adress with Theia 🔍</h3>
-    <img src="https://github.com/4m4Sec/Theia/blob/main/images/shell.png">
+    <img src="https://github.com/dawnl3ss/Theia/blob/main/images/shell.png">
 </div>
 
 ## 📌 Installation :
 ```console
 # Clone the repository
-$ git clone https://github.com/4m4Sec/Theia
+$ git clone https://github.com/dawnl3ss/Theia
 
 # go to the Theia directory
 $ cd Theia
@@ -24,7 +24,7 @@ $ python theia.py -s True
 #### exposes the theia command to the whole  system
 ```shell
 # Clone the repository
-$ git clone https://github.com/4m4Sec/Theia
+$ git clone https://github.com/dawnl3ss/Theia
 
 # go to the Theia directory
 $ cd Theia
