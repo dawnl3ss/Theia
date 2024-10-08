@@ -20,6 +20,19 @@ $ python theia.py -a 45.45.45.45
 $ python theia.py -s True
 ```
 
+## Alternative Installation : 
+#### exposes the theia command to the whole  system
+```shell
+# Clone the repository
+$ git clone https://github.com/4m4Sec/Theia
+
+# go to the Theia directory
+$ cd Theia
+
+# create a symlink bound to the theia.sh script
+sudo ln -s $(realpath theia.sh) /usr/bin/theia
+```
+
 ## 📌 Usage :
 ```console
 $ python theia.py --help
